@@ -1,0 +1,1 @@
+a service to help people develop ideas
